@@ -1,0 +1,6 @@
+{
+  "mongo": {
+    "host": "mongo",
+    "databaseName": "xendit_test"
+  }
+}
